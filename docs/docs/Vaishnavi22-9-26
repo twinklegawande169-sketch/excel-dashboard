@@ -1,0 +1,3 @@
+git mv README.md Vaishnavi22-9-26.md
+git commit -m "Renamed README to Vaishnavi22-9-26.md"
+git push origin main   
